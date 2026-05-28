@@ -1,3 +1,9 @@
 # Ignore macOS system files used to store folder metadata
 .DS_Store
 
+# Ignore ok test framework local state files
+.ok_disabled
+.ok_history
+.ok_storage.db
+CLAUDE.md
+
