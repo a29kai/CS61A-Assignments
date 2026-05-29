@@ -9,3 +9,6 @@ CLAUDE.md
 
 # IDE settings
 .vscode/
+
+# Vim swap files
+*.swp
